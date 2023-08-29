@@ -1,0 +1,68 @@
+body {
+    background-image: url(background.jpg);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    padding: 5%;
+}
+
+header {
+    text-align: center;
+}
+
+.logo {
+    width: 20%;
+}
+
+.logo-text {
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    color: rgb(90, 270, 0);   
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(90, 270, 0);
+    padding-block: 10px; 
+    margin: 10px;
+}
+
+main {
+    padding: 1%;
+}
+
+.via {
+    font-size: 150% ;
+}
+
+.third {
+    display: inline-block;
+}
+
+.primo {
+    background-color: rgb(255, 209, 6);
+    border-radius: 5px;
+    width: 300px;
+    height: 25px;
+}
+
+.secondo {
+    background-color: rgb(39, 255, 6);
+    border-radius: 5px;
+    width: 500px;
+    height: 25px;
+}
+
+.terzo {
+    background-color: rgb(255, 6, 6);
+    border-radius: 5px;
+    width: 150px;
+    height: 25px;
+}
